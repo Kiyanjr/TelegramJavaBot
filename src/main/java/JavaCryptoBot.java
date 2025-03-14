@@ -5,12 +5,12 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 public class JavaCryptoBot extends TelegramLongPollingBot {
     @Override
     public String getBotUsername() {
-        return "TrackingArz_bot";
+        return "ur bot id";
     }
 
     @Override
     public String getBotToken() {
-        return "8053735211:AAHq8EpFkC5YpJL5fSrAcg6hO8GrGAvXblY";
+        return "ur token";
     }
 
     @Override
